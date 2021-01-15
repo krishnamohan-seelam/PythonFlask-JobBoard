@@ -48,7 +48,7 @@ def employer(employer_id ):
 
 
 @app.route('/employer/<employer_id>/review')
-def employer(employer_id ,methods=('GET' ,'POST')):
+def review(employer_id ,methods=('GET' ,'POST')):
     if request.method =='POST':
         review = request.form['review']
         rating = request.form['rating']
