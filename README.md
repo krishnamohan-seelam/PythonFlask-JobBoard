@@ -1,4 +1,4 @@
-# Build a Job Board with Python & Flask
+# Build a Job Board with Python & Flask [![Build Status](https://travis-ci.org/krishnamohan-seelam/PythonFlask-JobBoard.svg?branch=master)](https://travis-ci.org/krishnamohan-seelam/PythonFlask-JobBoard)
 
 ## Verify Local Environment
 
